@@ -9,13 +9,13 @@ This repository contains labs and assignments completed over the course of the p
 
 ### Labs 
 
-Lab 1: Intro to circuit composition and cost
+- Lab 1: Intro to circuit composition and cost
 
-Lab 2: Advanced circuits
+- Lab 2: Advanced circuits
 
-Lab 3: Quantum Noise
+- Lab 3: Quantum Noise
 
-Lab 4: Simulate a Quantum Spin-1/2 Model
+- Lab 4: Simulate a Quantum Spin-1/2 Model
 
 
 
