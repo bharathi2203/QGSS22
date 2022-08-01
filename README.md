@@ -6,7 +6,6 @@ The Qiskit Global Summer School 2022 is a two-week intensive summer program desi
 
 This repository contains labs and assignments completed over the course of the program.
 
-
 ### Labs 
 
 - Lab 1: Intro to circuit composition and cost
